@@ -2,7 +2,7 @@
 
 - 🔭 Sr. Analyst working on end-end Supply Chain Optimization at Medline
 - 🌱 I’m currently learning Python and looking to expand into the data science & data engineering realms.
-- 💬 Ask me about anything about Alteryx, Tableau, or SQL; my current toolkit! 
+- 💬 Ask me anything about Alteryx, Tableau, or SQL; my current toolkit! 
 - ⚡ Fun fact: I once hiked a volcano! <i>Volcán Maderas en la Isla de Ometepe, Nicaragua</i>
 - 📫 [LinkedIn](https://www.linkedin.com/in/asullivan22)
 
